@@ -1,1 +1,4 @@
-{"pages_build_output_dir": "dist"}
+{
+  "name": "somework",
+  "pages_build_output_dir": "dist"
+}
